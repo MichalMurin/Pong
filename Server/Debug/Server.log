@@ -1,0 +1,13 @@
+﻿  Server.cpp
+C:\Users\micha\My Drive\FRI_Uniza\FRI\SEMESTER_5\POS\Semestraka_PONG\Server\Server.cpp(22,81): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\My Drive\FRI_Uniza\FRI\SEMESTER_5\POS\Semestraka_PONG\Server\Server.cpp(22,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\micha\My Drive\FRI_Uniza\FRI\SEMESTER_5\POS\Semestraka_PONG\Server\Server.cpp(49,3): warning C4551: function call missing argument list
+  Server.vcxproj -> C:\Users\micha\My Drive\FRI_Uniza\FRI\SEMESTER_5\POS\Semestraka_PONG\Debug\Server.exe

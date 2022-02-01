@@ -1,0 +1,9 @@
+﻿  Client.cpp
+C:\Users\micha\My Drive\FRI_Uniza\FRI\SEMESTER_5\POS\Semestraka_PONG\Klient\Client.cpp(51,3): warning C4551: function call missing argument list
+C:\Users\micha\My Drive\FRI_Uniza\FRI\SEMESTER_5\POS\Semestraka_PONG\Klient\Client.cpp(117,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ClientMenu.cpp
+C:\Users\micha\My Drive\FRI_Uniza\FRI\SEMESTER_5\POS\Semestraka_PONG\Klient\ClientMenu.cpp(211,3): warning C4551: function call missing argument list
+C:\Users\micha\My Drive\FRI_Uniza\FRI\SEMESTER_5\POS\Semestraka_PONG\Klient\ClientMenu.cpp(217,3): warning C4551: function call missing argument list
+  main.cpp
+  Generating Code...
+  Klient.vcxproj -> C:\Users\micha\My Drive\FRI_Uniza\FRI\SEMESTER_5\POS\Semestraka_PONG\Debug\Klient.exe
